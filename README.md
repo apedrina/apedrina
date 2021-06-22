@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @apedrina
-- 👀 I’m interested in earn better
+- 👀 I’m interested in God
 - 🌱 I’m currently learning: aws sam cli, lambda with nodeJs
 - 📫 pedrina.alisson@gmail.com
 
